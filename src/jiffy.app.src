@@ -2,5 +2,6 @@
     {description, "JSON Decoder/Encoder."},
     {vsn, git},
     {registered, []},
-    {applications, [kernel, stdlib]}
+    {applications, [kernel, stdlib],
+    {modules, []}
 ]}.
